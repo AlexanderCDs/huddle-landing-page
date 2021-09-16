@@ -1,6 +1,6 @@
 {
-  "name": "huddle-landing-page-with-single-introductory-section",
-  "homepage": "https://alexandercds.github.io/huddle-landing-page-with-single-introductory-section/",
+  "name": "huddle-landing-page",
+  "homepage": "https://alexandercds.github.io/huddle-landing-page/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
