@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/huddle-landing-page/static/css/main.70894419.chunk.css",
+    "main.js": "/huddle-landing-page/static/js/main.0015af27.chunk.js",
+    "main.js.map": "/huddle-landing-page/static/js/main.0015af27.chunk.js.map",
+    "runtime-main.js": "/huddle-landing-page/static/js/runtime-main.42b38ae5.js",
+    "runtime-main.js.map": "/huddle-landing-page/static/js/runtime-main.42b38ae5.js.map",
+    "static/js/2.02a34797.chunk.js": "/huddle-landing-page/static/js/2.02a34797.chunk.js",
+    "static/js/2.02a34797.chunk.js.map": "/huddle-landing-page/static/js/2.02a34797.chunk.js.map",
+    "static/js/3.4ea6f175.chunk.js": "/huddle-landing-page/static/js/3.4ea6f175.chunk.js",
+    "static/js/3.4ea6f175.chunk.js.map": "/huddle-landing-page/static/js/3.4ea6f175.chunk.js.map",
+    "index.html": "/huddle-landing-page/index.html",
+    "static/css/main.70894419.chunk.css.map": "/huddle-landing-page/static/css/main.70894419.chunk.css.map",
+    "static/js/2.02a34797.chunk.js.LICENSE.txt": "/huddle-landing-page/static/js/2.02a34797.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/huddle-landing-page/static/media/bg-mobile.41ba0830.svg",
+    "static/media/icon-facebook.101bd07e.svg": "/huddle-landing-page/static/media/icon-facebook.101bd07e.svg",
+    "static/media/icon-instagram.7d97118a.svg": "/huddle-landing-page/static/media/icon-instagram.7d97118a.svg",
+    "static/media/icon-twitter.23df5d42.svg": "/huddle-landing-page/static/media/icon-twitter.23df5d42.svg",
+    "static/media/illustration-mockups.264994a5.svg": "/huddle-landing-page/static/media/illustration-mockups.264994a5.svg",
+    "static/media/logo.2b3c07e4.svg": "/huddle-landing-page/static/media/logo.2b3c07e4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42b38ae5.js",
+    "static/js/2.02a34797.chunk.js",
+    "static/css/main.70894419.chunk.css",
+    "static/js/main.0015af27.chunk.js"
+  ]
+}
